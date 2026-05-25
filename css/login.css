@@ -240,7 +240,10 @@ label {
 .input-box input::placeholder {
     color: #5f738f;
 }
-
+.form-select{
+    background-color: rgba(3, 10, 22, 0.95);
+    color:#ffffff;
+}
 /* =========================
    BOTÃO
 ========================= */
